@@ -12,7 +12,6 @@ Interested in IT. Doing side projects while I do some freelance jobs and study C
 ![test](https://img.icons8.com/dusk/100/000000/php-logo.png)
 ## Frameworks
 ![laravel](https://i.imgur.com/vLDC4eT.png)
-![vuejs](https://img.icons8.com/color/96/000000/vue-js.png)
 ![dotnet](https://i.imgur.com/mhPS52E.jpg)
 ## IDEs
 ![jetbrains](https://i.imgur.com/iXkn3kg.png)
