@@ -24,9 +24,7 @@ Interested in IT. Doing side projects while I do some freelance jobs and study C
 ![docker](https://img.icons8.com/color/96/000000/docker.png)
 ![console](https://img.icons8.com/fluent/96/000000/console.png)
 ## Cloud Providers
-![azure](https://img.icons8.com/color/96/000000/azure-1.png)
 ![aws](https://img.icons8.com/color/96/000000/amazon-web-services.png)
-![googlecloud](https://img.icons8.com/fluent/96/000000/google-cloud.png)
 ## Databases
 ![oracle](https://img.icons8.com/color/96/000000/oracle-logo.png)
 ![postgres](https://img.icons8.com/color/96/000000/postgreesql.png)
