@@ -1,5 +1,5 @@
 # Tusquito
-Interested in IT. Doing side projects while I do some freelance jobs and study Computer Engineering at IUT Robert Schuman Illkirch.
+Interested in IT. Doing side projects while I do some freelance jobs and study Computer Engineering.
 ## Socials
 [![](https://img.shields.io/badge/-@Tusquito-%23232729?style=flat-square&logo=github)](https://github.com/Tusquito)
 [![](https://img.shields.io/badge/-@Tusquito-orange?style=flat-square&logo=gitlab)](https://gitlab.com/Tusquito)
