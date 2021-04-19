@@ -4,7 +4,6 @@ Interested in IT. Doing side projects while I do some freelance jobs and study C
 [![](https://img.shields.io/badge/-@Tusquito-%23232729?style=flat-square&logo=github)](https://github.com/Tusquito)
 [![](https://img.shields.io/badge/-@Tusquito-orange?style=flat-square&logo=gitlab)](https://gitlab.com/Tusquito)
 [![](https://img.shields.io/badge/-Tuskk%239802-%232c2f33?style=flat-square&logo=discord)]()
-[![](https://img.shields.io/badge/-@TuskKB9-%231dcaff?style=flat-square&logo=twitter)]()
 ## Programming Languages
 ![csharp](https://img.icons8.com/color/100/000000/c-sharp-logo.png)![c](https://img.icons8.com/color/96/000000/c-programming.png)
 ![java](https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png)![html5](https://img.icons8.com/color/96/000000/html-5.png)
