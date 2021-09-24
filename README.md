@@ -1,5 +1,5 @@
 # Tusquito
-Interested in IT. Doing side projects while I do some freelance jobs and study Computer Engineering.
+Apprentice IT Engineer living in Strasbourg, France.
 ## Socials
 [![](https://img.shields.io/badge/-@Tusquito-%23232729?style=flat-square&logo=github)](https://github.com/Tusquito)
 [![](https://img.shields.io/badge/-@Tusquito-orange?style=flat-square&logo=gitlab)](https://gitlab.com/Tusquito)
@@ -29,13 +29,18 @@ Interested in IT. Doing side projects while I do some freelance jobs and study C
 ![postgres](https://img.icons8.com/color/96/000000/postgreesql.png)
 ## My Projects
 
-### NosWings - Software Engineering (Emulator, Launcher, Discord Bot)
-NosWings MMORPG Private Server of the game NosTale, written **from scratch** with a team of passionate IT students.
-Tech stack: 
-- Emulator: .NET Core 3.1 (C# 8), gRPC, RabbitMQ, ELK, MongoDB, PostgreSQL
-- DevOps: Ansible, Terraform, Docker, Gitlab CI, Sentry, ElasticSearch, Prometheus, Grafana
-- Internal usage softwares (own made): Golang, Rust, .NET Core, C++, Powershell
-- Web: VueJS (frontend), React (Wiki/Documentation) + ASP.NET Core (Backend)
-- Mobile App: Flutter
-- Client Modding SDK: C++, ASM
-- Resources Modding: C#, Golang
+Olympus - Backend Lead
+A MMORPG Private Server of the game NosTale, written from scratch with a team of passionate IT students.
+
+I'm currently working as Backend Lead, in order to facilitate the backend team's work. We are working with several Cloud providers (OVH, Scaleway, AWS, GCP)
+
+Tech stack:
+
+Emulator: .NET 5 (C# 9), gRPC, RabbitMQ, ELK, MongoDB, PostgreSQL
+DevOps: Ansible, Terraform, Docker, Gitlab CI, Sentry, ElasticSearch, Prometheus, Grafana
+Internal usage softwares (own made): Golang, Rust, .NET Core, C++, Powershell
+Frontend: VueJS (frontend), React (Wiki/Documentation)
+Backend: ASP.NET Core, PostgreSQL
+Client Modding SDK: C++, ASM
+Resources Modding: C#, Golang
+Mobile App: Flutter
