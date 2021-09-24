@@ -29,18 +29,21 @@ Apprentice IT Engineer living in Strasbourg, France.
 ![postgres](https://img.icons8.com/color/96/000000/postgreesql.png)
 ## My Projects
 
-Olympus - Backend Lead
+### Olympus - Backend Lead
+
 A MMORPG Private Server of the game NosTale, written from scratch with a team of passionate IT students.
 
 I'm currently working as Backend Lead, in order to facilitate the backend team's work. We are working with several Cloud providers (OVH, Scaleway, AWS, GCP)
 
-Tech stack:
+#### Tech stack:
 
-Emulator: .NET 5 (C# 9), gRPC, RabbitMQ, ELK, MongoDB, PostgreSQL
-DevOps: Ansible, Terraform, Docker, Gitlab CI, Sentry, ElasticSearch, Prometheus, Grafana
-Internal usage softwares (own made): Golang, Rust, .NET Core, C++, Powershell
-Frontend: VueJS (frontend), React (Wiki/Documentation)
-Backend: ASP.NET Core, PostgreSQL
-Client Modding SDK: C++, ASM
-Resources Modding: C#, Golang
-Mobile App: Flutter
+- Emulator: .NET 5 (C# 9), gRPC, RabbitMQ, ELK, MongoDB, PostgreSQL
+- DevOps: Ansible, Terraform, Docker, Gitlab CI, Sentry, ElasticSearch, Prometheus, Grafana
+- Internal usage softwares (own made): Golang, Rust, .NET Core, C++, Powershell
+- Frontend: VueJS (frontend), React (Wiki/Documentation)
+- Backend: ASP.NET Core, PostgreSQL
+- Client Modding SDK: C++, ASM
+- Resources Modding: C#, Golang
+- Mobile App: Flutter
+
+![Tusquito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tusquito&count_private=true&show_icons=true&theme=dracula)
