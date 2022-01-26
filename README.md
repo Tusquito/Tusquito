@@ -37,13 +37,18 @@ I'm currently working as Backend Lead, in order to facilitate the backend team's
 
 #### Tech stack:
 
-- Emulator: .NET 5 (C# 9), gRPC, RabbitMQ, ELK, MongoDB, PostgreSQL
+- Emulator: .NET 6 (C# 10), gRPC, RabbitMQ, ELK, MongoDB, PostgreSQL
 - DevOps: Ansible, Terraform, Docker, Gitlab CI, Sentry, ElasticSearch, Prometheus, Grafana
 - Internal usage softwares (own made): Golang, Rust, .NET Core, C++, Powershell
-- Frontend: VueJS (frontend), React (Wiki/Documentation)
-- Backend: ASP.NET Core, PostgreSQL
+- Frontend: VueJS (frontend)
+- Backend: ASP.NET Core, PostgreSQL, Redis, EntityFrameworkCore
 - Client Modding SDK: C++, ASM
 - Resources Modding: C#, Golang
 - Mobile App: Flutter
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusquito&layout=compact&theme=dracula)
+
 ![Tusquito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tusquito&count_private=true&show_icons=true&theme=dracula)
+
+![](https://github-profile-trophy.vercel.app/?username=Tusquito&theme=dracula)
+  
