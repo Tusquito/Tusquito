@@ -1,4 +1,4 @@
-# Tusquito
+# Tusquito ![](https://komarev.com/ghpvc/?username=Tusquito)
 Apprentice IT Engineer living in Strasbourg, France.
 ## Socials
 [![](https://img.shields.io/badge/-@Tusquito-%23232729?style=flat-square&logo=github)](https://github.com/Tusquito)
