@@ -40,7 +40,7 @@ I'm currently working as Backend Lead, in order to facilitate the backend team's
 - Emulator: .NET 6 (C# 10), gRPC, RabbitMQ, ELK, MongoDB, PostgreSQL
 - DevOps: Ansible, Terraform, Docker, Gitlab CI, Sentry, ElasticSearch, Prometheus, Grafana
 - Internal usage softwares (own made): Golang, Rust, .NET Core, C++, Powershell
-- Frontend: VueJS (frontend)
+- Frontend: VueJS
 - Backend: ASP.NET Core, PostgreSQL, Redis, EntityFrameworkCore
 - Client Modding SDK: C++, ASM
 - Resources Modding: C#, Golang
