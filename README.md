@@ -33,7 +33,7 @@ Apprentice IT Engineer living in Strasbourg, France.
 
 A MMORPG Private Server of the game NosTale, written from scratch with a team of passionate IT students.
 
-I'm currently working as Backend Lead, in order to facilitate the backend team's work. We are working with several Cloud providers (OVH, Scaleway, AWS, GCP)
+I was working as Backend Lead, in order to facilitate the backend team's work. We are working with several Cloud providers (OVH, Scaleway, AWS, GCP)
 
 #### Tech stack:
 
